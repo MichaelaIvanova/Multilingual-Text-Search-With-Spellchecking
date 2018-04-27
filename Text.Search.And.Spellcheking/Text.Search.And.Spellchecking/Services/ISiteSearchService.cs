@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
+using Business.Logic.Models;
 using Examine;
 using Umbraco.Core.Models;
 using Umbraco.Web;
 using Umbraco.Web.PublishedCache;
-using Text.Search.And.Spellchecking.Models;
 
-namespace Text.Search.And.Spellchecking.Services
+namespace Business.Logic.Services
 {
     public interface ISiteSearchService
     {

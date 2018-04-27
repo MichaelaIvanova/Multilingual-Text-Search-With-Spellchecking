@@ -7,7 +7,7 @@ using System.Web;
 using Newtonsoft.Json;
 using Umbraco.Core.Logging;
 
-namespace Text.Search.And.Spellchecking.Helpers
+namespace Business.Logic.Helpers
 {
     public class InputSanitiser : IInputSanitiser
     {

@@ -1,4 +1,4 @@
-﻿namespace Text.Search.And.Spellchecking.Helpers
+﻿namespace Business.Logic.Helpers
 {
     public interface IAppSettingsHelper
     {

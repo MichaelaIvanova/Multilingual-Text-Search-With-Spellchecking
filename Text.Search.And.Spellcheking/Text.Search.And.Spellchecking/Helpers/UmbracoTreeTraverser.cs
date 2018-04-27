@@ -2,7 +2,7 @@
 using Umbraco.Core.Models;
 using Umbraco.Web;
 
-namespace Text.Search.And.Spellchecking.Helpers
+namespace Business.Logic.Helpers
 {
     //Introduce for unit testing so calling may be verifiable
     //We cannot test the class itselft because static umbraco PublishedContent Extension

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Text.Search.And.Spellchecking.Helpers
+namespace Business.Logic.Helpers
 {
     public interface IInputSanitiser
     {
