@@ -1,4 +1,4 @@
-﻿namespace Text.Search.And.Spellcheking.Models
+﻿namespace Text.Search.And.Spellchecking.Models
 {
     public class SearchResultItem
     {

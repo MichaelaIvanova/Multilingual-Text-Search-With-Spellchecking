@@ -1,6 +1,6 @@
 ﻿using Umbraco.Core.Models;
 
-namespace Text.Search.And.Spellcheking.Helpers
+namespace Text.Search.And.Spellchecking.Helpers
 {
     public interface IUmbracoTreeTraverser
     {

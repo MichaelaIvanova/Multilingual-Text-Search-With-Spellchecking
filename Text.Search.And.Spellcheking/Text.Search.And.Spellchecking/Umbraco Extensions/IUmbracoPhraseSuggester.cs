@@ -1,6 +1,6 @@
-﻿using Text.Search.And.Spellcheking.Models;
+﻿using Text.Search.And.Spellchecking.Models;
 
-namespace Text.Search.And.Spellcheking.Umbraco_Extensions
+namespace Text.Search.And.Spellchecking.Umbraco_Extensions
 {
     public interface IUmbracoPhraseSuggester
     {

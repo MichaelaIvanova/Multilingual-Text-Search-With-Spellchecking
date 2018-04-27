@@ -7,8 +7,8 @@
     <ProjectGuid>{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Text.Search.And.Spellcheking</RootNamespace>
-    <AssemblyName>Text.Search.And.Spellcheking</AssemblyName>
+    <RootNamespace>Text.Search.And.Spellchecking</RootNamespace>
+    <AssemblyName>Text.Search.And.Spellchecking</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Text.Search.And.Spellcheking.Helpers
+namespace Text.Search.And.Spellchecking.Helpers
 {
     public class AppSettingsHelper : IAppSettingsHelper
     {

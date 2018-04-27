@@ -6,14 +6,14 @@ using System.Web;
 using Examine;
 using Examine.LuceneEngine.Providers;
 using Examine.SearchCriteria;
-using Text.Search.And.Spellcheking.Helpers;
+using Text.Search.And.Spellchecking.Helpers;
+using Text.Search.And.Spellchecking.Models;
 using Umbraco.Core;
 using Umbraco.Core.Models;
 using Umbraco.Web;
 using Umbraco.Web.PublishedCache;
-using Text.Search.And.Spellcheking.Models;
 
-namespace Text.Search.And.Spellcheking.Services
+namespace Text.Search.And.Spellchecking.Services
 {
     public class SiteSearchService : ISiteSearchService
     {

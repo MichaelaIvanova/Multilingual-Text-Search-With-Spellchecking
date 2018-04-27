@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Examine;
 
-namespace Text.Search.And.Spellcheking.Models
+namespace Text.Search.And.Spellchecking.Models
 {
     public class RankedPhrase
     {

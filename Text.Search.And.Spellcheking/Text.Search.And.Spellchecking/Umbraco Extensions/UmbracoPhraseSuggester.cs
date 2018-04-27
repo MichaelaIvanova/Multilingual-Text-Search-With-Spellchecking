@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Text.Search.And.Spellcheking.Helpers;
-using Text.Search.And.Spellcheking.Models;
-using Text.Search.And.Spellcheking.Services;
+using Text.Search.And.Spellchecking.Helpers;
+using Text.Search.And.Spellchecking.Models;
+using Text.Search.And.Spellchecking.Services;
 
-namespace Text.Search.And.Spellcheking.Umbraco_Extensions
+namespace Text.Search.And.Spellchecking.Umbraco_Extensions
 {
     public class UmbracoPhraseSuggester : IUmbracoPhraseSuggester
     {

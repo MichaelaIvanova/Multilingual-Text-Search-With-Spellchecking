@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Text.Search.And.Spellcheking.Umbraco_Extensions
+namespace Text.Search.And.Spellchecking.Umbraco_Extensions
 {
     public interface IUmbracoSpellChecker
     {

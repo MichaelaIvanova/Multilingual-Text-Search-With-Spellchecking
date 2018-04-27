@@ -3,9 +3,9 @@ using Examine;
 using Umbraco.Core.Models;
 using Umbraco.Web;
 using Umbraco.Web.PublishedCache;
-using SearchResultItem = Text.Search.And.Spellcheking.Models.SearchResultItem;
+using Text.Search.And.Spellchecking.Models;
 
-namespace Text.Search.And.Spellcheking.Services
+namespace Text.Search.And.Spellchecking.Services
 {
     public interface ISiteSearchService
     {

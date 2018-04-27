@@ -1,4 +1,4 @@
-﻿namespace Text.Search.And.Spellcheking.Umbraco_Extensions
+﻿namespace Text.Search.And.Spellchecking.Umbraco_Extensions
 {
     public static class SpellCheckerConstants
     {
