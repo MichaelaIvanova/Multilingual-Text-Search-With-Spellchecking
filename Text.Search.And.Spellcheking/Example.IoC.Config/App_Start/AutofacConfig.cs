@@ -7,19 +7,20 @@ using System.Web.Mvc;
 using Autofac;
 using Autofac.Integration.Mvc;
 using Autofac.Integration.WebApi;
-using Business.Logic.Services;
-using Business.Logic.Umbraco_Extensions;
 using Examine;
 using Examine.LuceneEngine.Providers;
-using Example.App.Config.Controllers;
+using Example.App.Controllers;
+using Example.BusinessLogic.Services;
+using Example.BusinessLogic.Umbraco_Extensions;
 using Umbraco.Core;
 using Umbraco.Core.Services;
 using Umbraco.Web;
 
-namespace Example.App.Config
+namespace Example.App
 {
     public static class AutofacConfig
     {
+        //Call method in app start
         public static void RegisterDependencies(ApplicationContext applicationContext)
         {
             var builder = new ContainerBuilder();

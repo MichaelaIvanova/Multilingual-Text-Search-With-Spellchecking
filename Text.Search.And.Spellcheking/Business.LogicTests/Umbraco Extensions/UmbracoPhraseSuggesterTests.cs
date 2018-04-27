@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
-using Business.Logic.Helpers;
-using Business.Logic.Services;
-using Business.Logic.Umbraco_Extensions;
 using Examine;
+using Example.BusinessLogic.Helpers;
+using Example.BusinessLogic.Services;
+using Example.BusinessLogic.Umbraco_Extensions;
 using Moq;
 using NUnit.Framework;
 
-namespace Business.LogicTests.Umbraco_Extensions
+namespace Example.Business.LogicTests.Umbraco_Extensions
 {
     [TestFixture]
     public class UmbracoPhraseSuggesterTests

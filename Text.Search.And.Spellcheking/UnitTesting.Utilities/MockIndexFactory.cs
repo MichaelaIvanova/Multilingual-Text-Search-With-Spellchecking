@@ -11,7 +11,7 @@ using Lucene.Net.Util;
 using NSubstitute;
 using UmbracoExamine;
 
-namespace UnitTesting.Utilities
+namespace Example.UnitTesting.Utilities
 {
     public class MockIndexFactory
     {

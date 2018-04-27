@@ -1,4 +1,4 @@
-﻿namespace Business.Logic.Models
+﻿namespace Example.BusinessLogic.Models
 {
     public class SearchResultItem
     {

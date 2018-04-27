@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using Business.Logic.Helpers;
+using Example.BusinessLogic.Helpers;
 using NUnit.Framework;
 
-namespace Business.LogicTests.Helpers
+namespace Example.Business.LogicTests.Helpers
 {
     [TestFixture]
     public class InputSanitiserTests

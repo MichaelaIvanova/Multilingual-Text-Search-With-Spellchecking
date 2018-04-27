@@ -3,21 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Web.Mvc;
-using Business.Logic.Helpers;
-using Business.Logic.Models;
-using Business.Logic.Services;
-using Business.Logic.Umbraco_Extensions;
 using Examine;
-using Example.App.Config.Controllers;
-using Example.App.Config.Models;
+using Example.App.Controllers;
+using Example.App.Models;
+using Example.BusinessLogic.Helpers;
+using Example.BusinessLogic.Models;
+using Example.BusinessLogic.Services;
+using Example.BusinessLogic.Umbraco_Extensions;
+using Example.UnitTesting.Utilities;
 using Moq;
 using NUnit.Framework;
 using Umbraco.Core.Models;
 using Umbraco.Web;
 using Umbraco.Web.PublishedCache;
-using UnitTesting.Utilities;
 
-namespace Example.App.ConfigTests.Controllers
+namespace Example.App.Tests.Controllers
 {
     [TestFixture]
     public class GbSiteSearchSurfaceControllerTests

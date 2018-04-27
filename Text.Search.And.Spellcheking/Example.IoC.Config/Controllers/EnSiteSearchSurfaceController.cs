@@ -1,9 +1,9 @@
-﻿using Business.Logic.Helpers;
-using Business.Logic.Services;
-using Business.Logic.Umbraco_Extensions;
+﻿using Example.BusinessLogic.Helpers;
+using Example.BusinessLogic.Services;
+using Example.BusinessLogic.Umbraco_Extensions;
 using Umbraco.Web.PublishedCache;
 
-namespace Example.App.Config.Controllers
+namespace Example.App.Controllers
 {
     public class EnSiteSearchSurfaceController : BaseSiteSearchSurfaceController
     {

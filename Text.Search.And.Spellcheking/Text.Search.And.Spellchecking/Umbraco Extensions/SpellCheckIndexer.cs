@@ -9,7 +9,7 @@ using Umbraco.Core;
 using UmbracoExamine;
 using UmbracoExamine.Config;
 
-namespace Business.Logic.Umbraco_Extensions
+namespace Example.BusinessLogic.Umbraco_Extensions
 {
     public class SpellCheckIndexer : BaseUmbracoIndexer
     {

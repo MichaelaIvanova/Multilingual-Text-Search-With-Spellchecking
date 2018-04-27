@@ -1,15 +1,15 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
-using Business.Logic.Helpers;
-using Business.Logic.Models;
-using Business.Logic.Services;
-using Business.Logic.Umbraco_Extensions;
-using Example.App.Config.Models;
+using Example.App.Models;
+using Example.BusinessLogic.Helpers;
+using Example.BusinessLogic.Models;
+using Example.BusinessLogic.Services;
+using Example.BusinessLogic.Umbraco_Extensions;
 using Umbraco.Web.Mvc;
 using Umbraco.Web.PublishedCache;
 
-namespace Example.App.Config.Controllers
+namespace Example.App.Controllers
 {
     public abstract class BaseSiteSearchSurfaceController : SurfaceController
     {

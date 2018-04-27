@@ -1,4 +1,4 @@
-﻿namespace Business.Logic.Helpers
+﻿namespace Example.BusinessLogic.Helpers
 {
     public interface IAppSettingsHelper
     {

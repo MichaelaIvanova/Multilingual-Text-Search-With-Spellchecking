@@ -1,6 +1,6 @@
-﻿using Business.Logic.Models;
+﻿using Example.BusinessLogic.Models;
 
-namespace Business.Logic.Umbraco_Extensions
+namespace Example.BusinessLogic.Umbraco_Extensions
 {
     public interface IUmbracoPhraseSuggester
     {

@@ -3,17 +3,17 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Text;
 using System.Web;
-using Business.Logic.Helpers;
-using Business.Logic.Models;
 using Examine;
 using Examine.LuceneEngine.Providers;
 using Examine.SearchCriteria;
+using Example.BusinessLogic.Helpers;
+using Example.BusinessLogic.Models;
 using Umbraco.Core;
 using Umbraco.Core.Models;
 using Umbraco.Web;
 using Umbraco.Web.PublishedCache;
 
-namespace Business.Logic.Services
+namespace Example.BusinessLogic.Services
 {
     public class SiteSearchService : ISiteSearchService
     {

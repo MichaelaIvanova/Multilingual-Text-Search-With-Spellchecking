@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Logic", "Text.Search.And.Spellchecking\Business.Logic.csproj", "{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.BusinessLogic", "Text.Search.And.Spellchecking\Example.BusinessLogic.csproj", "{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.App.Config", "Example.IoC.Config\Example.App.Config.csproj", "{ED9E9A6C-0663-4816-A437-11D08AE0C08F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.App", "Example.IoC.Config\Example.App.csproj", "{ED9E9A6C-0663-4816-A437-11D08AE0C08F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.LogicTests", "Business.LogicTests\Business.LogicTests.csproj", "{46DAE11E-BD8E-4199-9C44-328BE2FDE815}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Business.Logic.Tests", "Business.LogicTests\Example.Business.Logic.Tests.csproj", "{46DAE11E-BD8E-4199-9C44-328BE2FDE815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.App.ConfigTests", "Example.App.ConfigTests\Example.App.ConfigTests.csproj", "{C5D73749-F39B-474A-9DE3-4E66983A1902}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.App.Tests", "Example.App.ConfigTests\Example.App.Tests.csproj", "{C5D73749-F39B-474A-9DE3-4E66983A1902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Utilities", "UnitTesting.Utilities\UnitTesting.Utilities.csproj", "{7BE4282D-7A1D-4FDE-B12C-C6CB3DB57B2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.UnitTesting.Utilities", "UnitTesting.Utilities\Example.UnitTesting.Utilities.csproj", "{7BE4282D-7A1D-4FDE-B12C-C6CB3DB57B2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Business.Logic.Models;
+using Example.BusinessLogic.Models;
 
-namespace Example.App.Config.Models
+namespace Example.App.Models
 {
     public class SiteSearchVm
     {

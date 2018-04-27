@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Ploeh.AutoFixture;
 
-namespace UnitTesting.Utilities
+namespace Example.UnitTesting.Utilities
 {
     public static class AutoDataUtility
     {

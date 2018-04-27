@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Example.App.Config.Models
+namespace Example.App.Models
 {
     public class NoResultsFoundVm
     {

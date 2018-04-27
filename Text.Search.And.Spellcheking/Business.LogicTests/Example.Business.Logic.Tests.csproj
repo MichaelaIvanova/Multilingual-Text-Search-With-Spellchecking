@@ -7,8 +7,8 @@
     <ProjectGuid>{46DAE11E-BD8E-4199-9C44-328BE2FDE815}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Business.LogicTests</RootNamespace>
-    <AssemblyName>Business.LogicTests</AssemblyName>
+    <RootNamespace>Example.Business.LogicTests</RootNamespace>
+    <AssemblyName>Example.Business.LogicTests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -76,9 +76,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Text.Search.And.Spellchecking\Business.Logic.csproj">
+    <ProjectReference Include="..\Text.Search.And.Spellchecking\Example.BusinessLogic.csproj">
       <Project>{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}</Project>
-      <Name>Business.Logic</Name>
+      <Name>Example.BusinessLogic</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

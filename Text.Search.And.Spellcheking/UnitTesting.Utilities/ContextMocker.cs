@@ -18,7 +18,7 @@ using Umbraco.Web;
 using Umbraco.Web.Routing;
 using Umbraco.Web.Security;
 
-namespace UnitTesting.Utilities
+namespace Example.UnitTesting.Utilities
 {
     public class ContextMocker
     {

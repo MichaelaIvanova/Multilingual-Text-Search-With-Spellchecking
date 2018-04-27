@@ -1,4 +1,4 @@
-﻿namespace Business.Logic.Umbraco_Extensions
+﻿namespace Example.BusinessLogic.Umbraco_Extensions
 {
     public static class SpellCheckerConstants
     {

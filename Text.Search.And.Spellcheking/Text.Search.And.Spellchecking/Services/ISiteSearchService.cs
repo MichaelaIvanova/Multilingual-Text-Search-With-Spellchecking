@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
-using Business.Logic.Models;
 using Examine;
+using Example.BusinessLogic.Models;
 using Umbraco.Core.Models;
 using Umbraco.Web;
 using Umbraco.Web.PublishedCache;
 
-namespace Business.Logic.Services
+namespace Example.BusinessLogic.Services
 {
     public interface ISiteSearchService
     {

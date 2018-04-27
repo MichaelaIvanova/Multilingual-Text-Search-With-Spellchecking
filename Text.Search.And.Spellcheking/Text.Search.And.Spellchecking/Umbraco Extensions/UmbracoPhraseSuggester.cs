@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Business.Logic.Helpers;
-using Business.Logic.Models;
-using Business.Logic.Services;
+using Example.BusinessLogic.Helpers;
+using Example.BusinessLogic.Models;
+using Example.BusinessLogic.Services;
 
-namespace Business.Logic.Umbraco_Extensions
+namespace Example.BusinessLogic.Umbraco_Extensions
 {
     public class UmbracoPhraseSuggester : IUmbracoPhraseSuggester
     {

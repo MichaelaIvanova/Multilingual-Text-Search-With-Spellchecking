@@ -1,6 +1,6 @@
 ﻿using Umbraco.Core.Models;
 
-namespace Business.Logic.Helpers
+namespace Example.BusinessLogic.Helpers
 {
     public interface IUmbracoTreeTraverser
     {

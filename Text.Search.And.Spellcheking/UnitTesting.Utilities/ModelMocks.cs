@@ -5,7 +5,7 @@ using Moq;
 using Umbraco.Core.Models;
 using Umbraco.Core.PropertyEditors;
 
-namespace UnitTesting.Utilities
+namespace Example.UnitTesting.Utilities
 {
     public class ModelMocks
     {

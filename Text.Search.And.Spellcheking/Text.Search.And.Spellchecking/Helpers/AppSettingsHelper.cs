@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Business.Logic.Helpers
+namespace Example.BusinessLogic.Helpers
 {
     public class AppSettingsHelper : IAppSettingsHelper
     {

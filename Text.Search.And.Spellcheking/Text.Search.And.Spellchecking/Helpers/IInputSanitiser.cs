@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Business.Logic.Helpers
+namespace Example.BusinessLogic.Helpers
 {
     public interface IInputSanitiser
     {

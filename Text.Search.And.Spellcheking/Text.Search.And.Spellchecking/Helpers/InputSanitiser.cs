@@ -7,7 +7,7 @@ using System.Web;
 using Newtonsoft.Json;
 using Umbraco.Core.Logging;
 
-namespace Business.Logic.Helpers
+namespace Example.BusinessLogic.Helpers
 {
     public class InputSanitiser : IInputSanitiser
     {

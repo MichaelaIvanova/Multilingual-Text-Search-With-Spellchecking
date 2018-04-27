@@ -6,7 +6,7 @@ using Lucene.Net.Search;
 using Lucene.Net.Store;
 using SpellChecker.Net.Search.Spell;
 
-namespace Business.Logic.Umbraco_Extensions
+namespace Example.BusinessLogic.Umbraco_Extensions
 {
     public class UmbracoSpellChecker : IUmbracoSpellChecker
     {

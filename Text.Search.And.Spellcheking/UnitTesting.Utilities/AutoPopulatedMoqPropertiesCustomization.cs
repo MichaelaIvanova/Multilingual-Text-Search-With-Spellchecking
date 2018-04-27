@@ -3,7 +3,7 @@ using Ploeh.AutoFixture;
 using Ploeh.AutoFixture.AutoMoq;
 using Ploeh.AutoFixture.Kernel;
 
-namespace UnitTesting.Utilities
+namespace Example.UnitTesting.Utilities
 {
     public class AutoPopulatedMoqPropertiesCustomization : ICustomization
     {

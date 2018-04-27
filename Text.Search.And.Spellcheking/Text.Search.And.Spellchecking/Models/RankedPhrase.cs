@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Examine;
 
-namespace Business.Logic.Models
+namespace Example.BusinessLogic.Models
 {
     public class RankedPhrase
     {

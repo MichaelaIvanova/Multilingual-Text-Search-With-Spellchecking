@@ -1,7 +1,7 @@
-﻿using Business.Logic.Services;
-using Business.Logic.Umbraco_Extensions;
+﻿using Example.BusinessLogic.Services;
+using Example.BusinessLogic.Umbraco_Extensions;
 
-namespace Example.App.Config.Controllers
+namespace Example.App.Controllers
 {
     public class DeSiteSearchSurfaceController : BaseSiteSearchSurfaceController
     {
