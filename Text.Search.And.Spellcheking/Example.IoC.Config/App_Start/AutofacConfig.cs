@@ -37,7 +37,6 @@ namespace Example.App.Config
 
             //Register all classes by default, whose names correspond to naming convension SomeClass to ISomeClass.
             //Note: You only need to register one assembly type, this will register all the classes with interfaces.
-            //Here we register all everything in the Tungsten-Network.BusinessLogic
             var servicesAssembly = Assembly.GetAssembly(typeof(SpellCheckIndexer));
             builder.RegisterAssemblyTypes(servicesAssembly).AsImplementedInterfaces();
 
@@ -78,7 +77,7 @@ namespace Example.App.Config
                     SearcherName = "SiteSearchSearcherUK",
                     IndexSets = new NameValueCollection
                     {
-                        { indexSets, "SiteSearchIndexSetEN" },
+                        { indexSets, "SiteSearchIndexSetEN" },// you need to create these set in ExamineSettings.config & ExamineIndex.config
                         { indexSets, "SiteSearchIndexSetSiteResources" },
                         { indexSets, "SiteSearcIndexSetMicrosites"},
                         { indexSets, "SiteSearchIndexSetComplienceEN"},
