@@ -244,10 +244,6 @@
       <Project>{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}</Project>
       <Name>Example.Business.Logic</Name>
     </ProjectReference>
-    <ProjectReference Include="..\UnitTesting.Utilities\Example.UnitTesting.Utilities.csproj">
-      <Project>{7BE4282D-7A1D-4FDE-B12C-C6CB3DB57B2C}</Project>
-      <Name>Example.UnitTesting.Utilities</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <Choose>

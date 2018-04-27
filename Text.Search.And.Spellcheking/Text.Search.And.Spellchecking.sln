@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Business.Logic", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.App.Tests", "Example.App.Tests\Example.App.Tests.csproj", "{C5D73749-F39B-474A-9DE3-4E66983A1902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.UnitTesting.Utilities", "UnitTesting.Utilities\Example.UnitTesting.Utilities.csproj", "{7BE4282D-7A1D-4FDE-B12C-C6CB3DB57B2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.UnitTesting.Utilities", "Example.UnitTesting.Utilities\Example.UnitTesting.Utilities.csproj", "{7BE4282D-7A1D-4FDE-B12C-C6CB3DB57B2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Business.Logic.Tests", "Business.Logic.Tests\Example.Business.Logic.Tests.csproj", "{46DAE11E-BD8E-4199-9C44-328BE2FDE815}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Business.Logic.Tests", "Example.Business.Logic.Tests\Example.Business.Logic.Tests.csproj", "{46DAE11E-BD8E-4199-9C44-328BE2FDE815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
