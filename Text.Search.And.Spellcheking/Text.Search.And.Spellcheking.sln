@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.Search.And.Spellcheking", "Text.Search.And.Spellcheking\Text.Search.And.Spellcheking.csproj", "{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7C6AB7-54C6-4606-B9D8-B91906B3A26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {666FB7C4-7FE2-4EAC-BD6B-1A6DA0343064}
+	EndGlobalSection
+EndGlobal
